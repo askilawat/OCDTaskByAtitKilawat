@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OCDTaskByAtitKilawat</string>
+    <string name="calculate_btn">Calculate</string>
+    <string name="input_ex_text">Enter list of comma - separated numbers (e.g., 3,5,6)</string>
+    <string name="enter_input_3">Enter Input 3</string>
+    <string name="enter_input_2">Enter Input 2</string>
+    <string name="enter_input_1">Enter Input 1</string>
+    <string name="generate_random">Generate Random</string>
+    <string name="atit_kilawat_nnagpur_india_n_91_9511679047">Atit Kilawat \nNagpur, India \n+91 9511679047</string>
+    <string name="result_box">Result Box</string>
+</resources>
